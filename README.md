@@ -7,9 +7,9 @@
 
 ## Specs
 
-*
-  * input:
-  * output:
+* Create initial deposit amount
+  * input: $30
+  * output: $30
 
 ## Setup
 
